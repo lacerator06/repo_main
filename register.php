@@ -1,3 +1,3 @@
 <?php 
-echo "register";
+echo "register asdas";
 ?>
